@@ -11,7 +11,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "e2e:react": "playwright test --reporter=html test/react.e2e.spec.ts",
-    "e2e:bing": "playwright test --reporter=html test/bing.e2e.spec.ts",
+    "e2e:google": "playwright test --reporter=html test/google.e2e.spec.ts",
     "e2e:show-report": "playwright show-report",
     "serve": "serve ./build"
   },
